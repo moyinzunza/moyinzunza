@@ -3,15 +3,7 @@
 
 ### <div>I'm Moises, a full-time senior backend/Android/iOS Developer 👨‍💻 working since 2010 🚀</div>  
   
-
-- 🌱 I’m currently learning ML  
-  
-
 - ❓ Ask me about anything, I would be glad to help (if I could).  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>
 
